@@ -1,0 +1,12 @@
+.fast-reply-container {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.fast-reply-container button {
+    margin-left: 3px;
+    margin-right: 3px;
+    padding: 5px 15px;
+    cursor: pointer;
+    border-radius: 11px;
+    border: none;
+}
